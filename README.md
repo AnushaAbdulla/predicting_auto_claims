@@ -86,6 +86,23 @@ Full documentation is available in the `docs/` directory.
 
 ## Contact
 For questions or collaboration, reach out to the team:  
-- GitHub: [Your GitHub Profile]  
-- LinkedIn: [Your LinkedIn Profile]  
 
+Anusha:
+ - [**GitHub**](https://github.com/AnushaAbdulla)
+ - [**LinkedIn**](https://www.linkedin.com/in/AnushaAbdulla)
+
+Jesse:
+ - [**GitHub**](https://github.com/)
+ - [**LinkedIn**](https://www.linkedin.com/in/)
+
+Livia:
+ - [**GitHub**](https://github.com/)
+ - [**LinkedIn**](https://www.linkedin.com/in/)
+
+Lorena:
+ - [**GitHub**](https://github.com/)
+ - [**LinkedIn**](https://www.linkedin.com/in/)
+
+Maria:
+ - [**GitHub**](https://github.com/)
+ - [**LinkedIn**](https://www.linkedin.com/in/)

@@ -90,8 +90,8 @@ Jesse:
  - [**LinkedIn**](https://www.linkedin.com/in/)
 
 Livia:
- - [**GitHub**](https://github.com/)
- - [**LinkedIn**](https://www.linkedin.com/in/)
+ - [**GitHub**](https://github.com/liviajohn)
+ - [**LinkedIn**](https://www.linkedin.com/in/livia-mary-john/)
 
 Lorena:
  - [**GitHub**](https://github.com/)

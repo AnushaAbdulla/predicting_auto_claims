@@ -62,7 +62,7 @@ This project was developed as part of the AI Studio Final Presentation for the e
    pip install -r requirements.txt
    ```
 3. **Prepare the Data**:  
-   Download and preprocess the dataset as described in `data/README.md`.  
+   You must find your own data. The data provided by Allstate is classified and not allowed to be shared.
 
 4. **Train Models**:  
    Run the model scripts for LightGBM, XGBoost, or Random Forest:  
@@ -77,12 +77,6 @@ This project was developed as part of the AI Studio Final Presentation for the e
    ```bash
    python evaluate.py  
    ```
-
-## Documentation
-- **User Guide**: Instructions for setting up, training, and using the models.  
-- **API Documentation**: Details about available functions and their integration into external systems.  
-
-Full documentation is available in the `docs/` directory.
 
 ## Contact
 For questions or collaboration, reach out to the team:  

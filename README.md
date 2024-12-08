@@ -44,9 +44,9 @@ This project was developed as part of the AI Studio Final Presentation for the e
 3. Investigate methods to address data imbalance, such as oversampling or SMOTE.  
 
 ## Individual Contributions
-- **Anusha Shakir Abdulla**: Data preprocessing, LightGBM implementation, model evaluation.  
-- **Lorena Milian**: EDA, Random Forest modeling, feature engineering.  
-- **Jesse Incoom**: XGBoost implementation, hyperparameter tuning.  
+- **Anusha Shakir Abdulla**: Data preprocessing, Random Forest implementation, model evaluation.  
+- **Lorena Milian**: EDA, XGBoost Implementation, feature engineering.  
+- **Jesse Incoom**: LightGBM implementation, hyperparameter tuning.  
 - **Maria Santos Perez**: Insights presentation and business impact analysis.  
 - **Livia John**: Data visualization, documentation, and reporting.
 

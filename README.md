@@ -94,7 +94,7 @@ Livia:
  - [**LinkedIn**](https://www.linkedin.com/in/livia-mary-john/)
 
 Lorena:
- - [**GitHub**](https://github.com/)
+ - [**GitHub**](https://github.com/lorenamilian)
  - [**LinkedIn**](https://www.linkedin.com/in/lorenamilian/)
 
 Maria:

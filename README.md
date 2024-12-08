@@ -86,8 +86,8 @@ Anusha:
  - [**LinkedIn**](https://www.linkedin.com/in/AnushaAbdulla)
 
 Jesse:
- - [**GitHub**](https://github.com/)
- - [**LinkedIn**](https://www.linkedin.com/in/)
+ - [**GitHub**](https://github.com/Jesse-TD)
+ - [**LinkedIn**](https://www.linkedin.com/in/jesseincoom/)
 
 Livia:
  - [**GitHub**](https://github.com/liviajohn)

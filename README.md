@@ -98,5 +98,5 @@ Lorena:
  - [**LinkedIn**](https://www.linkedin.com/in/lorenamilian/)
 
 Maria:
- - [**GitHub**]([https://github.com/](https://github.com/dsanmar))
+ - [**GitHub**]([https://github.com/dsanmar])
  - [**LinkedIn**](https://www.linkedin.com/in/msantos0/)

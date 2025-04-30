@@ -1,4 +1,4 @@
-# Allstate Predicting Claim Data
+# Allstate Predicting Auto Claim Amounts Using Authentic Anonymous Claim Data
 
 **Project Overview**  
 This project was developed as part of the AI Studio Final Presentation for the eCornell Break Through Tech AI program in December 2024. The goal was to predict the total cost of an auto claim to Allstate, leveraging multiple machine learning models to identify the best predictive approach and provide actionable insights for financial planning and claims management.
